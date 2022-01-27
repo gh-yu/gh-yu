@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh-yu&count_private=true&show_icons=true&theme=dracula)
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgh-yu%2Fhit-counter&count_bg=%2368B897&title_bg=%23867F7F&icon=phabricator.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gh-yu&layout=compact)](https://github.com/****/github-readme-stats)
