@@ -23,7 +23,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-fcb358?style=flat-square&logo=JavaScript&logoColor=white"/>
 </p>
-<hr>
+
+## 📂 Projects
+
+- 📷 [HOBBYIST : 라이브 취미 클래스 플랫폼](https://github.com/gh-yu/HOBBYIST)
+
+- 🏙 [CODEUS : 그룹웨어 - 통합업무 플랫폼](https://github.com/gh-yu/CODEUS-Groupware)
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh-yu&count_private=true&show_icons=true&theme=dracula)
 <br>
