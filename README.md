@@ -23,12 +23,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-fcb358?style=flat-square&logo=JavaScript&logoColor=white"/>
 </p>
-
+<hr>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh-yu&count_private=true&show_icons=true&theme=dracula)
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgh-yu%2Fhit-counter&count_bg=%2397B69A&title_bg=%238C7F7F&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gh-yu&langs_count=10&layout=compact&theme=dark)](https://github.com/gh-yu/gh-yu)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gh-yu&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-yu&layout=compact&theme=dracula&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gh-yu&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-yu&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- | -->
