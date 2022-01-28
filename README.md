@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 </p>
 
 ## 📂 Projects
+- 🏙 [CODEUS : 그룹웨어 - 통합업무 플랫폼](https://github.com/gh-yu/CODEUS-Groupware)
 
 - 📷 [HOBBYIST : 라이브 취미 클래스 플랫폼](https://github.com/gh-yu/HOBBYIST)
 
-- 🏙 [CODEUS : 그룹웨어 - 통합업무 플랫폼](https://github.com/gh-yu/CODEUS-Groupware)
 
 ##
 
