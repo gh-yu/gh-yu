@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## 📂 Projects
 - 🏙 [CODEUS : 그룹웨어 - 통합업무 플랫폼 ( Spring 프로젝트 )](https://github.com/gh-yu/CODEUS-Groupware)
 
-- 📷 [HOBBYIST : 라이브 취미 클래스 플랫폼 ( Servelt & Jsp 프로젝트 )](https://github.com/gh-yu/HOBBYIST)
+- 📷 [HOBBYIST : 라이브 취미 클래스 플랫폼 ( Servelt & J 프로젝트 )](https://github.com/gh-yu/HOBBYIST)
 
 
 ##
