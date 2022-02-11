@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # ✨ 유건휘 ( Geonhwi Yu )
+- 🎂 1995.05.06
+- 💻 Back-end Developer
+- 📧 yooumi99@gmail.com
 <br>
 
 ## 🛠 Skills
