@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-fcb358?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=Oracle&logoColor=white"/>
 </p>
 
 ## 📂 Projects
