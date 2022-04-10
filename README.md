@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ✨ 유건휘 ( Geonhwi Yu )
+<!-- # ✨ 유건휘 ( Geonhwi Yu )
 - 🎂 1995.05.06
 - 💻 Back-end Developer
 - 📧 yooumi99@gmail.com
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 ##
-
+ -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh-yu&count_private=true&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gh-yu&langs_count=10&layout=compact&theme=dracula&hide_border=true")](https://github.com/gh-yu/gh-yu)
 <br>
